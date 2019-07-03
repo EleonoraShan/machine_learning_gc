@@ -21,7 +21,7 @@ from itertools import izip_longest
 # constant directory and file names
 RUNS_DIRNAME = 'runs'
 DATAS_DIRNAME = 'data'
-CHECKPOINTS_DIRNAME = 'checkpoint'
+CHECKPOINTS_DIRNAME = 'checkpoints'
 LOGS_DIRNAME = 'logs'
 ALPHABETS_DIRNAME = 'alphabets'
 FULL_TRAINING_DIRNAME     = 'training'
